@@ -1,1 +1,1 @@
-# Earth-Angular-Client
+# Earth-Web-Client-Angular
